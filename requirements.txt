@@ -1,0 +1,6 @@
+numpy>=1.26
+PySide6>=6.6
+PyAudioWPatch>=0.2.12.7
+keyboard>=0.13.5
+ai-edge-litert>=1.0    ; sound-type recognition (YAMNet)
+faster-whisper>=1.0    ; live speech subtitles
