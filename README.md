@@ -127,6 +127,13 @@ with faster-whisper, gated by the speech detector. `app/hud.py` draws the
 transparent, click-through, always-on-top overlay. `app/main.py` wires it all
 together with a tray icon and the global hotkey.
 
+## Feedback and improvements
+
+- Your feedback and suggestions are welcome.
+- It is possible to improve the sound descriptions with the use of larger 
+classification models. In this build the feature is not included, as it would 
+increase latency and require more hardware resources.
+
 ## Support / donate
 
 Hear-O is free for personal and non-commercial use. If it helps you and you'd
